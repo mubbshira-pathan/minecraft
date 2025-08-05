@@ -27,5 +27,3 @@ https://github.com/user-attachments/assets/1c899b55-c6e9-4153-9ded-66e0565c76a9
 - HTML5
 - CSS3
 - Visual Studio Code
-
-
